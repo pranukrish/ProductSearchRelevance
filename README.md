@@ -52,6 +52,9 @@ WANDS | Wayfair product search relevance data
 Langchain | Building applications with LLMs through composability
 Chromadb | An open source embedding database
 Sentence-transformers | Compute dense vector representations for sentences, paragraphs, and images
+
+
+
 Output Snapshot:
 ![WhatsApp Image 2023-12-15 at 3 57 43 PM](https://github.com/pranukrish/ProductSearchRelevance/assets/112594201/0be891da-44d9-4813-9292-ae0609d209e9)
 
