@@ -49,7 +49,7 @@ d. label - Relevance label, one of 'Exact', 'Partial', or 'Irrelevant'
 Tech Stack | Description  
 --- | --- 
 WANDS | Wayfair product search relevance data  
---- | ---  
-langchain | Building applications with LLMs through composability
+Langchain | Building applications with LLMs through composability
 Chromadb | An open source embedding database
+Sentence-transformers | Compute dense vector representations for sentences, paragraphs, and images
 
