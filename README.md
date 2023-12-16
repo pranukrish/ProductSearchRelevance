@@ -51,3 +51,5 @@ Tech Stack | Description
 WANDS | Wayfair product search relevance data  
 --- | ---  
 langchain | Building applications with LLMs through composability
+Chromadb | An open source embedding database
+
