@@ -55,8 +55,8 @@ Sentence-transformers | Compute dense vector representations for sentences, para
 
 
 
-Output Snapshot:
-<img width="1437" alt="Screenshot 2023-12-15 at 7 27 02 PM" src="https://github.com/pranukrish/ProductSearchRelevance/assets/112594201/f08df5b3-a2d3-448e-91a7-d75adddadf0e">
+## Output Snapshot:
+
 
 
 <img width="1439" alt="Screenshot 2023-12-15 at 7 34 52 PM" src="https://github.com/pranukrish/ProductSearchRelevance/assets/112594201/a6abe56b-f340-4a8c-93c4-9191862c68c6">
