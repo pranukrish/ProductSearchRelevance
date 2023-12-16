@@ -68,6 +68,9 @@ Sentence-transformers | Compute dense vector representations for sentences, para
 
 
 
+When users searched for "children table," the results not only included various children's tables but also displayed "kids desks." This result is a testament to the effectiveness of our semantic search optimization, ensuring a more intuitive and user-friendly search experience. It allows for a broader range of relevant product displays, increasing the likelihood of customer satisfaction and potential sales.
+
+
 Presentation Link: https://docs.google.com/presentation/d/1rxpbfkc7ot-U2ojQpzmwWKIdxv728H5fSD8zsphRhZU/edit#slide=id.SLIDES_API1437014956_2857
 
 Demo Link: https://drive.google.com/drive/folders/1SoElWZeKC22E-bab393sAs82VlnHvDlP?usp=sharing
