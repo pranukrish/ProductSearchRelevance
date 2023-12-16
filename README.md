@@ -11,12 +11,9 @@ The dataset allows objective benchmarking and evaluation of search engines on an
 The data is stored in the dataset folder in three files:
 
 1. product.csv - Stores all candidate products, columns include:
-a. product_id - ID of a product
-
+a. product_id - ID of a product /n
 b. product_name - String of product name
-
 c. product_class - Category which product falls under
-
 d. category_hierarchy - Parent categories of product, delimited by /
 e. product_description - String description of product
 f. product_features - | delimited string of attribute:value pairs which describe the product
