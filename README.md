@@ -56,8 +56,9 @@ Sentence-transformers | Compute dense vector representations for sentences, para
 
 
 Output Snapshot:
-![WhatsApp Image 2023-12-15 at 3 57 43 PM](https://github.com/pranukrish/ProductSearchRelevance/assets/112594201/0be891da-44d9-4813-9292-ae0609d209e9)
+<img width="1437" alt="Screenshot 2023-12-15 at 7 27 02 PM" src="https://github.com/pranukrish/ProductSearchRelevance/assets/112594201/f08df5b3-a2d3-448e-91a7-d75adddadf0e">
+
 
 Presentation Link: https://docs.google.com/presentation/d/1rxpbfkc7ot-U2ojQpzmwWKIdxv728H5fSD8zsphRhZU/edit#slide=id.SLIDES_API1437014956_2857
 
-Demo Link: 
+Demo Link: https://drive.google.com/drive/folders/1SoElWZeKC22E-bab393sAs82VlnHvDlP?usp=sharing
