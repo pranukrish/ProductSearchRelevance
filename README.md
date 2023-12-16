@@ -11,7 +11,7 @@ The dataset allows objective benchmarking and evaluation of search engines on an
 The data is stored in the dataset folder in three files:
 
 1. product.csv - Stores all candidate products, columns include:
-a. product_id - ID of a product /n
+a. product_id - ID of a product
 b. product_name - String of product name
 c. product_class - Category which product falls under
 d. category_hierarchy - Parent categories of product, delimited by /
@@ -32,3 +32,6 @@ b. query_id - ID of the query this annotation is for
 c. product_id - ID of the product this annotation applies to
 d. label - Relevance label, one of 'Exact', 'Partial', or 'Irrelevant'
 
+## Architectural Diagram
+
+![image](https://github.com/pranukrish/ProductSearchRelevance/assets/112594201/2bb9b004-ba47-4210-9459-7eba4dce279e)
