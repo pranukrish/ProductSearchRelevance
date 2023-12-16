@@ -39,6 +39,7 @@ a. id - Unique ID for each annotation
 b. query_id - ID of the query this annotation is for
 c. product_id - ID of the product this annotation applies to
 d. label - Relevance label, one of 'Exact', 'Partial', or 'Irrelevant'
+Source of Dataset: https://github.com/wayfair/WANDS
 
 ## Architectural Diagram
 
