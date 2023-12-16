@@ -44,6 +44,7 @@ d. label - Relevance label, one of 'Exact', 'Partial', or 'Irrelevant'
 
 ![image](https://github.com/pranukrish/ProductSearchRelevance/assets/112594201/2bb9b004-ba47-4210-9459-7eba4dce279e)
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+Tech Stack | Description | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+WANDS | Wayfair product search relevance data | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
